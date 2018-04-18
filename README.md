@@ -1,6 +1,6 @@
-Cuisine Trends
+# Cuisine Trends
 
-##Overview
+## Overview
 
 Cuisine Trends seeks to collect data on various types of restaurants in specific
 geographic regions, then display aggregate data on number of the business of that
@@ -10,7 +10,7 @@ be used to analyze the trends of different cuisines in various locations.
 Ultimately, the mission is to display this data in a mobile Android app, with
 considerations of making it available on web as well. 
 
-##Details
+## Details
 
 The Yelp API will be used to collect data on businesses and their types. Only 
 the count of businesses, their cuisine type, and their general location will be
